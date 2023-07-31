@@ -1,0 +1,11 @@
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\bin\Debug\Sierpinski_Triangle.exe.config
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\bin\Debug\Sierpinski_Triangle.exe
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\bin\Debug\Sierpinski_Triangle.pdb
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\obj\Debug\Sierpinski_Triangle.csproj.AssemblyReference.cache
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\obj\Debug\Sierpinski_Triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\obj\Debug\Sierpinski_Triangle.Properties.Resources.resources
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\obj\Debug\Sierpinski_Triangle.Sierpinski.resources
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\obj\Debug\Sierpinski_Triangle.csproj.GenerateResource.cache
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\obj\Debug\Sierpinski_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\obj\Debug\Sierpinski_Triangle.exe
+C:\Users\User\Sierpinski triangle\Sierpinski_Triangle\obj\Debug\Sierpinski_Triangle.pdb
